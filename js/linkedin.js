@@ -64,15 +64,15 @@ generate.addEventListener("click", (e) => {
                   <div class="authority">
                       <div class="part-1">
                           <img id="sign" src="img/Sign2.JPG" alt="">
-                          <h3>VP, Learning Content at LinkedIn</h3>
+                          <h3>Kepala Sekolah</h3>
                       </div>
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
                           class="vl"></div>
                       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
                           class="part-2">
-                          <h3>LinkedIn Learning</h3>
-                          <h3>1000 W Maude Ave</h3>
-                          <h3>Sunnyvale, CA 94085</h3>
+                          <h3>SMP Negeri 4 Cipeundeuy</h3>
+                          <h3>Kp. Cijati, Ds. Jatimekar</h3>
+                          <h3>Cipeundeuy, Bandung Barat</h3>
                       </div>
                   </div>
                   <div class="certificate-id">Certificate Id: AU${rand4}IZ${rand2}a${rand2}rPeUmO_IE${rand4}R${rand4}0L${rand4}ac${rand2}sN</div>
