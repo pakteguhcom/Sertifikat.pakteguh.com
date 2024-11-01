@@ -75,7 +75,7 @@ generate.addEventListener("click", (e) => {
                           <h3>Cipeundeuy, Bandung Barat</h3>
                       </div>
                   </div>
-                  <div class="certificate-id">Certificate Id: AU${rand4}IZ${rand2}a${rand2}rPeUmO_IE${rand4}R${rand4}0L${rand4}ac${rand2}sN</div>
+                  <div class="certificate-id">Certificate Id: SMP${rand4}IZ${rand2}a${rand2}rPeUmO_IE${rand4}R${rand4}0L${rand4}ac${rand2}sN</div>
               </div>
           </div>
       </div>
