@@ -67,9 +67,9 @@ generate.addEventListener("click", (e) => {
                           <img id="sign" src="img/Sign2.JPG" alt="">
                           <h3>Hj. Eni Haerini, M.Pd</h3>
                       </div>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
                           class="vl"></div>
-                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
+                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div
                           class="part-2">
                           <h3>Trainer</h3>
                           <img id="sign" src="img/Sign2.JPG" alt="">
