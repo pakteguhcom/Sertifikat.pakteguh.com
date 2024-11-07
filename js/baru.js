@@ -44,7 +44,7 @@ generate.addEventListener("click", (e) => {
               </div>
               <div class="right-content">
                   <div class="logo">
-                      <img id="logo" src="img/Learning.png" alt="">
+                      <img id="logo" src="img/logobbgp.png" alt="">
                   </div>
                   <div class="congrats">
                       <h2>SERTIFIKAT</h2>
