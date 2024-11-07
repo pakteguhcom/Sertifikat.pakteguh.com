@@ -54,8 +54,8 @@ generate.addEventListener("click", (e) => {
                   <div class="course-name">
                       <h1> ${first_name} ${last_name}</h1>
                       <div class="completion">
-                          <h3>Sebagai Peserta ${course_name}</h3>
-                          <h3>yang diselenggarakan pada tanggal ${Date}</h3>
+                          <h3>Sebagai Peserta <bold>${course_name}</bold> yang diselenggarakan pada tanggal ${Date}</h3>
+                          
                   
                       </div>
                   </div>
