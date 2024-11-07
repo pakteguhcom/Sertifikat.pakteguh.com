@@ -50,6 +50,7 @@ generate.addEventListener("click", (e) => {
                       <h2>SERTIFIKAT</h2>
                       <h4>Nomor : ${rand2}/PEL/KOMBEL/2024</h4>
                       <h3>Diberikan kepada :</h3>
+                      <br/><br/>
                       <h1> ${first_name} ${last_name}</h1>
                   </div>
                   <div class="course-name">
