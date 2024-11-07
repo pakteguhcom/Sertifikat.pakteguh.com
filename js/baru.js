@@ -47,7 +47,8 @@ generate.addEventListener("click", (e) => {
                       <img id="logo" src="img/Learning.png" alt="">
                   </div>
                   <div class="congrats">
-                      <h2>Certificate of Completion</h2>
+                      <h2>SERTIFIKAT</h2>
+                      <h4>Nomor :${rand2}/PEL/KOMBEL/2024</h4>
                       <h3>Diberikan kepada :</h3>
                   </div>
                   <div class="course-name">
