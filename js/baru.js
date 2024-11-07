@@ -48,7 +48,7 @@ generate.addEventListener("click", (e) => {
                   </div>
                   <div class="congrats">
                       <h2>SERTIFIKAT</h2>
-                      <h4>Nomor :${rand2}/PEL/KOMBEL/2024</h4>
+                      <h4>Nomor : ${rand2}/PEL/KOMBEL/2024</h4>
                       <h3>Diberikan kepada :</h3>
                   </div>
                   <div class="course-name">
