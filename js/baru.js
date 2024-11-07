@@ -59,10 +59,7 @@ generate.addEventListener("click", (e) => {
                   
                       </div>
                   </div>
-                  <div class="para">
-                      <h2>By continuing to learn, you have expanded your perspective, sharpened your
-                          skills, and made yourself even more in demand.</h2>
-                  </div>
+                  
                   <div class="authority">
                       <div class="part-1">
                           <h3>Kepala Sekolah</h3>
