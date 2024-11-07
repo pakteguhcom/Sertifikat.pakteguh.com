@@ -1,7 +1,7 @@
 let fname = document.getElementById("fname");
 let lname = document.getElementById("lname");
 let date = document.getElementById("date");
-let length = document.getElementById("length");
+
 let course = document.getElementById("course");
 let form = document.getElementById("form");
 let container = document.querySelector(".container");
@@ -11,14 +11,14 @@ generate.addEventListener("click", (e) => {
   let first_name = fname.value;
   let last_name = lname.value;
   let Date = date.value;
-  let c_length = length.value;
+  
   let course_name = course.value;
   e.preventDefault();
   fname.value = "";
   lname.value = "";
   course.value = "";
   date.value = "";
-  length.value = "";
+ 
 
   form.style.display = "none";
   container.style.backgroundColor = "white";
@@ -56,7 +56,7 @@ generate.addEventListener("click", (e) => {
                       <div class="completion">
                           <h3>Sebagai Peserta ${course_name}</h3>
                           <h3>yang diselenggarakan pada tanggal ${Date}</h3>
-                  // <h3 id="clength">•&nbsp;&nbsp;${c_length}</h3>
+                  
                       </div>
                   </div>
                   <div class="para">
